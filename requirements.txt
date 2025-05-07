@@ -1,0 +1,7 @@
+pandas
+nltk
+scikit-learn
+stringcase
+sentiment
+streamlit
+numpy
